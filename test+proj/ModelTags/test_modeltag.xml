@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entities
+ build="b535"
+ majorVersion="8"
+ minorVersion="3"
+ modelPersistenceProviderPackage="H2PersistenceProviderPackage"
+ revision="2"
+ schemaVersion="1030"
+ universal="">
+    <ModelTags>
+        <ModelTagVocabulary
+         description=""
+         documentationContent=""
+         homeMashup=""
+         isDynamic="false"
+         lastModifiedDate="2022-08-02T03:36:38.392Z"
+         name="test_modeltag"
+         projectName="test+proj"
+         tags="Applications:GitBackup">
+            <avatar></avatar>
+            <DesignTimePermissions>
+                <Create></Create>
+                <Read></Read>
+                <Update></Update>
+                <Delete></Delete>
+                <Metadata></Metadata>
+            </DesignTimePermissions>
+            <RunTimePermissions></RunTimePermissions>
+            <VisibilityPermissions>
+                <Visibility></Visibility>
+            </VisibilityPermissions>
+            <ConfigurationTableDefinitions></ConfigurationTableDefinitions>
+            <ConfigurationTables></ConfigurationTables>
+            <VocabularyTerm
+             description=""
+             name="testing"></VocabularyTerm>
+        </ModelTagVocabulary>
+    </ModelTags>
+</Entities>
