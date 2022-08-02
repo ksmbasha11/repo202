@@ -13,7 +13,7 @@
          documentationContent=""
          homeMashup=""
          isDynamic="false"
-         lastModifiedDate="2022-08-02T03:36:38.392Z"
+         lastModifiedDate="2022-08-02T03:39:33.677Z"
          name="test_modeltag"
          projectName="test+proj"
          tags="Applications:GitBackup">
@@ -34,6 +34,9 @@
             <VocabularyTerm
              description=""
              name="testing"></VocabularyTerm>
+            <VocabularyTerm
+             description=""
+             name="tool"></VocabularyTerm>
         </ModelTagVocabulary>
     </ModelTags>
 </Entities>
